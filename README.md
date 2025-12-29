@@ -21,24 +21,24 @@ The user selects a **source city**, and the app generates the **Top 5 weekend de
 ## Live Demo
 
 > Add a link here if deployed on Streamlit Cloud or your server.  
-> Example: [Live Demo](https://your-streamlit-app-link)
+> Example: [Live Demo](https://weekend-getaway-ranker.streamlit.app/)
 
 ---
 
 ## Features
 
-- ✅ **City-based destination ranking**
-- ⭐ **Rating normalization** for fair comparison
-- 📈 **Popularity scoring** based on Google reviews
-- ⏱️ **Time suitability** scoring (shorter trips score higher)
-- 💰 **Free-entry bonus**
-- ⚡ **Fast performance** using Streamlit caching
-- 📋 **Interactive data table** display
-- 🔢 **Weighted scoring system** for overall ranking
+-  **City-based destination ranking**
+-  **Rating normalization** for fair comparison
+-  **Popularity scoring** based on Google reviews
+-  **Time suitability** scoring (shorter trips score higher)
+-  **Free-entry bonus**
+-  **Fast performance** using Streamlit caching
+-  **Interactive data table** display
+-  **Weighted scoring system** for overall ranking
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python 3.x**  
 - **Pandas** – Data manipulation & feature engineering  
@@ -47,7 +47,7 @@ The user selects a **source city**, and the app generates the **Top 5 weekend de
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 The dataset includes Indian tourist destinations with the following relevant columns:
 
@@ -65,7 +65,7 @@ The dataset includes Indian tourist destinations with the following relevant col
 
 ---
 
-## 🧠 Ranking Logic
+## Ranking Logic
 
 Each destination is scored using **normalized and weighted factors**:
 
