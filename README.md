@@ -19,9 +19,7 @@ The user selects a **source city**, and the app generates the **Top 5 weekend de
 ---
 
 ## Live Demo
-
-> Add a link here if deployed on Streamlit Cloud or your server.  
-> Example: [Live Demo](https://weekend-getaway-ranker.streamlit.app/)
+[Live Demo](https://weekend-getaway-ranker.streamlit.app/)
 
 ---
 
