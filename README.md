@@ -2,7 +2,6 @@
 
 A **Streamlit-based travel recommendation system** that ranks the **top weekend destinations** for any Indian city using ratings, popularity, visit time, and entry cost. Ideal for travelers looking for quick weekend trips without spending hours researching.
 
----
 
 ## Project Overview
 
@@ -16,7 +15,6 @@ The **Weekend Getaway Ranker** simplifies this by providing **automated rankings
 
 The user selects a **source city**, and the app generates the **Top 5 weekend destinations** with detailed insights.
 
----
 
 ## Live Demo
 [Live Demo](https://weekend-getaway-ranker.streamlit.app/)
@@ -34,7 +32,7 @@ The user selects a **source city**, and the app generates the **Top 5 weekend de
 -  **Interactive data table** display
 -  **Weighted scoring system** for overall ranking
 
----
+
 
 ## Tech Stack
 
@@ -43,7 +41,6 @@ The user selects a **source city**, and the app generates the **Top 5 weekend de
 - **Streamlit** – Interactive web app  
 - **CSV Dataset** – `Top Indian Places to Visit.csv`  
 
----
 
 ## Dataset
 
@@ -61,7 +58,6 @@ The dataset includes Indian tourist destinations with the following relevant col
 
 > The dataset CSV is included in the repo: `Top Indian Places to Visit.csv`
 
----
 
 ## Ranking Logic
 
